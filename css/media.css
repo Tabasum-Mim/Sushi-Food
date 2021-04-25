@@ -1,0 +1,418 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+	/*header start*/
+	.menu ul li a {
+    	padding: 0 !important;
+   	 	text-align: right;
+	}
+	/*banner start*/
+	.b-content {
+    	margin-top: 8px;
+	}
+	.b-content h1 {
+    	margin-bottom: 10px;
+    	font-size: 20px;
+	}
+	.b-content p {
+		margin-bottom: 10px;
+    	font-size: 16px;
+	}
+	.b-content button {
+    	padding: 2px 20px;
+    	font-size: 15px;
+    	border-radius: 45%;
+	}
+	/*popular menu start*/
+	.popular-menu {
+    	padding-top: 20px;
+    	padding-bottom: 40px;
+	}
+	.p-h2 {
+    	font-size: 42px;
+	}
+	.f-p {
+    	font-size: 18px;
+}
+	.f-content {
+    	margin-top: 30px;
+	}
+	.f-h2 {
+    	margin-top: 30px;
+	}
+	/*our-service start*/
+	.our-service{	
+	    padding-top: 0px;
+    	padding-bottom: 15px;
+	}
+	.b-service {
+    margin-top: 40px;
+	}
+	.b-service h2 {
+    	font-size: 45px;
+	}
+	.b-service p {
+	    font-size: 18px;
+	}
+	.b-service button {
+    	padding: 2px 20px;
+	}
+	/*speech start*/
+	.s-content {
+    	margin-top: 0;
+	}
+	.s-content1 p {
+		margin-top: 20px;
+    	margin-bottom: 20px;
+    	font-size: 18px;
+    	letter-spacing: 1px;
+    	line-height: 1;
+	}
+	.s-content1 h2{
+		font-size: 20px;
+	}
+	/*contact start*/
+	.contact {
+    	padding-top: 40px;
+    	padding-bottom: 60px;
+	}
+	.c-h2 {
+   	 	margin-bottom: 25px;
+    	font-size: 45px;
+	}
+	.c-p {
+    	font-size: 20px;
+	}
+	.contact-form {
+    	margin-top: 30px;
+	}
+	.c-form {
+    	padding: 10px;
+    	font-size: 16px;
+    	border-radius: 40%;
+	}
+	.c-button {
+    	padding: 0;
+    	font-size: 16px;
+    	border-radius: 40%;
+	}
+	/*footer start*/
+	footer {
+    	padding-top: 40px;
+    	padding-bottom: 50px;
+	}
+	.content-f h3 {
+    	margin-bottom: 20px;
+	}
+	.content-f p {
+    	font-size: 16px;
+	    line-height: 1.2;
+	}
+	.fs_icon {
+    	font-size: 20px;
+	}
+	.r-icon {
+    	height: 30px;
+    	width: 30px;
+	}
+	.f-1 h2 {
+    	margin-bottom: 20px;
+	}
+	.f-1 p {
+    	font-size: 11px;
+	}
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+	/*header start*/
+	.menu ul li a {
+    	padding: 0 !important;
+   	 	text-align: right;
+	}
+	/*banner start*/
+	.b-content {
+    	margin-top: 35px;
+	}
+	.b-content h1 {
+    	margin-bottom: 30px;
+    	font-size: 60px;
+	}
+	.b-content p {
+    	font-size: 22px;
+	}
+	.b-content button {
+    	padding: 10px 30px;
+    	font-size: 22px;
+    	border-radius: 45%;
+	}
+	/*popular menu start*/
+	.popular-menu {
+    	padding-top: 50px;
+    	padding-bottom: 80px;
+	}
+	.p-h2 {
+    	font-size: 55px;
+	}
+	.f-content {
+    	margin-top: 50px;
+	}
+	.f-h2 {
+    	margin-top: 30px;
+	}
+	/*our-service start*/
+	.our-service {
+    	padding-top: 0px;
+    	padding-bottom: 40px;
+	}
+	.b-service {
+    margin-top: 40px;
+	}
+	.b-service h2 {
+    	font-size: 55px;
+	}
+	.b-service p {
+	    font-size: 24px;
+	}
+	.b-service button {
+    	padding: 10px 30px;
+	}
+	/*speech start*/
+	.s-content {
+    	margin-top: 70px;
+	}
+	.s-content1 p {
+    	margin-top: 40px;
+    	margin-bottom: 60px;
+    	font-size: 30px;
+	}
+	/*contact start*/
+	.contact {
+    	padding-top: 40px;
+    	padding-bottom: 60px;
+	}
+	.c-h2 {
+   	 	margin-bottom: 25px;
+    	font-size: 45px;
+	}
+	.c-p {
+    	font-size: 20px;
+	}
+	.contact-form {
+    	margin-top: 30px;
+	}
+	.c-form {
+    	padding: 10px;
+    	font-size: 16px;
+    	border-radius: 40%;
+	}
+	.c-button {
+    	padding: 0;
+    	font-size: 16px;
+    	border-radius: 40%;
+	}
+	/*footer start*/
+	footer {
+    	padding-top: 40px;
+    	padding-bottom: 50px;
+	}
+	.content-f h3 {
+    	margin-bottom: 20px;
+	}
+	.content-f p {
+    	font-size: 18px;
+	    line-height: 1.2;
+	}
+	.fs_icon {
+		margin-bottom: 20px;
+    	font-size: 20px;
+	}
+	.r-icon {
+    	height: 30px;
+    	width: 30px;
+	}
+	.f-1 h2 {
+    	margin-bottom: 20px;
+	}
+	.f-1 p {
+    	font-size: 16px;
+	}
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+	/*header start*/
+	.menu ul li a {
+    	padding: 0 !important;
+   	 	text-align: right;
+	}
+	/*banner start*/
+	.b-content {
+    	margin-top: 30px;
+	}
+	.b-content h1 {
+    	margin-bottom: 30px;
+    	font-size: 60px;
+	}
+	.b-content p {
+    	font-size: 22px;
+	}
+	.b-content button {
+    	padding: 10px 30px;
+    	font-size: 22px;
+    	border-radius: 45%;
+	}
+	/*popular menu start*/
+	.popular-menu {
+    	padding-top: 50px;
+    	padding-bottom: 80px;
+	}
+	.p-h2 {
+    	font-size: 55px;
+	}
+	.f-content {
+    	margin-top: 50px;
+	}
+	.f-h2 {
+    	margin-top: 30px;
+	}
+	/*our-service start*/
+	.b-service {
+    	margin-top: 10px;
+	}
+	.b-service h2 {
+    	font-size: 45px;
+	}
+	.b-service p {
+	    font-size: 20px;
+	}
+	.b-service button {
+    	padding: 10px 20px;
+	}
+	/*speech start*/
+	.s-content {
+    	margin-top: 20px;
+	}
+	.s-content img {
+    	margin-bottom: 0;
+	}
+	.s-content1 p {
+	    font-size: 20px;
+	}
+	.s-content1 h2 {
+	    font-size: 30px;
+	}
+	/*contact start*/
+	.contact {
+    	padding-top: 40px;
+    	padding-bottom: 60px;
+	}
+	.c-h2 {
+   	 	margin-bottom: 25px;
+    	font-size: 45px;
+	}
+	.c-p {
+    	font-size: 20px;
+	}
+	.contact-form {
+    	margin-top: 30px;
+	}
+	.c-form {
+    	padding: 10px;
+    	font-size: 16px;
+    	border-radius: 40%;
+	}
+	.c-button {
+    	padding: 0;
+    	font-size: 16px;
+    	border-radius: 40%;
+	}
+	/*footer start*/
+	footer {
+    	padding-top: 40px;
+    	padding-bottom: 50px;
+	}
+	.content-f h3 {
+    	margin-bottom: 20px;
+	}
+	.content-f p {
+    	font-size: 16px;
+	    line-height: 1.2;
+	}
+	.fs_icon {
+    	font-size: 20px;
+	}
+	.r-icon {
+    	height: 30px;
+    	width: 30px;
+	}
+	.f-1 h2 {
+    	margin-bottom: 20px;
+	}
+	.f-1 p {
+    	font-size: 11px;
+	}
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+	/*banner start*/
+	.b-content {
+    	margin-top: 60px;
+	}
+	.b-content h1 {
+    	margin-bottom: 30px;
+    	font-size: 70px;
+	}
+	.b-content p {
+    	font-size: 25px;
+    	line-height: 1.2;
+	}
+	.b-content button {
+    	padding: 10px 30px;
+    	font-size: 22px;
+    	border-radius: 45%;
+	}
+	/*popular menu start*/
+	.popular-menu {
+    padding-top: 50px;
+    padding-bottom: 80px;
+	}
+	.p-h2 {
+    	font-size: 55px;
+	}
+	.f-content {
+    	margin-top: 50px;
+	}
+	.f-h2 {
+    	margin-top: 30px;
+	}
+	/*our-service start*/
+	.b-service {
+    margin-top: 40px;
+	}
+	.b-service h2 {
+    	font-size: 55px;
+	}
+	.b-service p {
+	    font-size: 24px;
+	}
+	.b-service button {
+    	padding: 10px 30px;
+	}
+	/*speech start*/
+	.s-content {
+    	margin-top: 60px;
+	}
+	.s-content1 p {
+    	margin-bottom: 50px;
+    	font-size: 35px;
+    	letter-spacing: 1.2;
+    	line-height: 1.1;  
+	}
+	/*contact start*/
+	/*footer start*/
+
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) { ... }
